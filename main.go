@@ -1,7 +1,7 @@
 package main
 
 import (
-	c "Kokutime/controllers"
+	c "Chatime/controllers"
 	"fmt"
 	"os"
 
